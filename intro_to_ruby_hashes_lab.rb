@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {type}
+  {:apples =>3}
 end
 
 # def pioneer=
