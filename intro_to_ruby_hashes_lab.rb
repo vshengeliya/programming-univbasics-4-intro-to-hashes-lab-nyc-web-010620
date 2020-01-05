@@ -10,9 +10,9 @@ def pioneer
   {:name => "Grace Hopper"}
 end
 
-# def id_generator =
-#   {:id =>54321}
-# end
+def id_generator =
+  {:id =>54321}
+end
 
 # def my_hash_creator(key, value)
 #   = {:name => "Grace Hopper"}
