@@ -2,7 +2,8 @@ def new_hash
   {}
 end
 
-def my_hash{:type => "single"}
+def my_hash
+  {type}
 end
 
 # def pioneer=
