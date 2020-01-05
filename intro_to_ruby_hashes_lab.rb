@@ -2,7 +2,7 @@ def new_hash
   {}
 end
 
-def my_hash(table)
+def my_hash{:type => single}
 end
 
 # def pioneer=
