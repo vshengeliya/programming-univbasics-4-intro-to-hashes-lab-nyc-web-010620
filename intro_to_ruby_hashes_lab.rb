@@ -6,9 +6,9 @@ def my_hash
   {:apples =>3}
 end
 
-# def pioneer=
-#   {:name => "Grace Hopper"}
-# end
+def pioneer=
+  {:name => "Grace Hopper"}
+end
 
 # def id_generator =
 #   {:id =>54321}
