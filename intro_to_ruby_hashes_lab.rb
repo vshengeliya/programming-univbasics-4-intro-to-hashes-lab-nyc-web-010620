@@ -2,9 +2,9 @@ def new_hash
   {}
 end
 
-# def my_hash=
+# def my_hash(=
 #   { object: = "glass"}
-# end
+# end)
 
 # def pioneer=
 #   {:name => "Grace Hopper"}
