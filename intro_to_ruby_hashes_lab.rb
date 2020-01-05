@@ -18,9 +18,9 @@ def my_hash_creator(key, value)
    {:name => "Grace Hopper"}
 end
 
-def my_hash_creator
- {:soap => 2, :shampoo =>1, :toothpaste => 2}
-  if my_hash_creator[:showergel]
+def my_hash_creator (key, value)
+ {}
+  if my_hash_creator[key]
   puts "Showergel included!"
 else
   puts " No showergel"
