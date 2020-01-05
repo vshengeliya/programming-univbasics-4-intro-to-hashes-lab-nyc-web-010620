@@ -23,7 +23,7 @@ def my_hash_creator (key, value)
   if my_hash_creator[key]
   puts "Showergel included!"
 else
-  puts " No showergel"
+  puts nil
   end
 end
 
