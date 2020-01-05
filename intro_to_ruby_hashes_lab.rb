@@ -18,13 +18,13 @@ def my_hash_creator(key, value)
    {:name => "Grace Hopper"}
 end
 
-# def  = {:soap => 2, :shampoo =>1, :toothpaste => 2}
-#   if my_hash_creator[:showergel]
-#   puts "Showergel included!"
-# else
-#   puts " No showergel"
-#   end
-# end
+def  = {:soap => 2, :shampoo =>1, :toothpaste => 2}
+  if my_hash_creator[:showergel]
+  puts "Showergel included!"
+else
+  puts " No showergel"
+  end
+end
 
 # def update_counting_hash(hash, key) = 
 #   {:pears => 2, :apples =>3, :strawberries =>5 }
