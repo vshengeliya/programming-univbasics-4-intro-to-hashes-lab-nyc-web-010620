@@ -14,9 +14,9 @@ def id_generator
   {:id =>54321}
 end
 
-# def my_hash_creator(key, value)
-#   = {:name => "Grace Hopper"}
-# end
+def my_hash_creator(key, value)
+  = {:name => "Grace Hopper"}
+end
 
 # def  = {:soap => 2, :shampoo =>1, :toothpaste => 2}
 #   if my_hash_creator[:showergel]
