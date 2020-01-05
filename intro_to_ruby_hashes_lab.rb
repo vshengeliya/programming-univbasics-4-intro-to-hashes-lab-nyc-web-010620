@@ -6,7 +6,7 @@ def my_hash
   {:apples =>3}
 end
 
-def pioneer=
+def pioneer
   {:name => "Grace Hopper"}
 end
 
